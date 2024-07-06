@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <>
-      <h1>audhd</h1>
+      <h1>Telegram</h1>
       <Container>
         <Grid container spacing={2}>
           <Grid item xs={4}>
