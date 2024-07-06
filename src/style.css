@@ -1,0 +1,16 @@
+.App {
+    font-family: 'Arial, sans-serif';
+    display: flex;
+    height: 100vh;
+  }
+  
+  .ChatList {
+    border-right: 1px solid #ddd;
+  }
+  
+  .ChatWindow {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
